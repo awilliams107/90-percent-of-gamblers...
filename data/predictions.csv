@@ -1,0 +1,53 @@
+Rui,OKC,10.84
+AR15,OKC,26.24
+Lebron,OKC,20.77
+Luka,OKC,24.38
+Rui,OKC,10.28,roll avg 10
+luka,OKC,26.62,roll avg 10
+lebron,OKC,18.39,roll avg 10
+reaves,OKC,23.13,roll avg 10
+lebron,OKC,xbg: 13.85,rfg: 18.39,roll avg 10
+reaves,OKC,xbg: 20.47,rfg: 23.13,roll avg 10
+luka,OKC,xbg: 25.95,rfg: 26.62,roll avg 10
+rui,OKC,xbg: 12.56,rfg: 10.28,roll avg 10
+lebron,OKC,xbg: 14.38,rfg: 20.77,roll avg 5
+reaves,OKC,xbg: 15.71,rfg: 26.24,roll avg 5
+luka,OKC,xbg: 21.71,rfg: 24.38,roll avg 5
+rui,OKC,xbg: 12.08,rfg: 10.84,roll avg 5
+lebron,OKC,xbg: 14.30,rfg: 21.29,updated okc defense
+reaves,OKC,xbg: 16.70,rfg: 26.65,updated okc defense
+luka,OKC,xbg: 21.16,rfg: 23.16,updated okc defense
+rui,OKC,xbg: 11.88,rfg: 10.79,updated okc defense
+shai,LAL,xbg: 29.05,rfg: 29.76,updated okc defense
+shai,LAL,xbg: 29.16,rfg: 31.77,updated lal defense
+jalen_williams,LAL,xbg: 16.48,rfg: 19.17,updated lal defense
+jalen_williams,LAL,xbg: 18.13,rfg: 22.1,back to 10 game avg
+shai,LAL,xbg: 27.42,rfg: 28.53,back to 10 game avg
+lebron,OKC,xbg: 14.10,rfg: 18.56,back to 10 game avg
+reaves,OKC,xbg: 20.45,rfg: 22.15,back to 10 game avg
+luka,OKC,xbg: 26.29,rfg: 26.36,back to 10 game avg
+rui,OKC,xbg: 12.40,rfg: 10.28,back to 10 game avg
+shai,LAL,xbg: 21.30,rfg: 32.17,stacked: 18.12,lots of feature engineering
+jalen_williams,LAL,xbg: 17.95,rfg: 15.96,stacked: 11.73,lots of feature engineering
+luka,OKC,xbg: 30.13,rfg: 33.43,stacked: 32.33,lots of feature engineering
+reaves,OKC,xbg: 8.96,rfg: 19.21,stacked: 9.37,lots of feature engineering
+lebron,OKC,xbg: 10.50,rfg: 20.99,stacked: 10.65,lots of feature engineering
+lebron,OKC,xbg: 10.44,rfg: 20.99,stacked: 10.65,lots of feature engineering
+lebron,OKC,xbg: 10.44,rfg: 20.99,stacked: 10.58,lots of feature engineering
+lebron,OKC,xbg: 27.77,rfg: 28.93,stacked: 28.75,lots of feature engineering
+luka,OKC,xbg: 29.89,rfg: 33.43,stacked: 33.28,lots of feature engineering
+shai,LAL,xbg: 22.28,rfg: 32.17,stacked: 17.78,lots of feature engineering
+jalen_williams,LAL,xbg: 17.21,rfg: 15.96,stacked: 14.41,lots of feature engineering
+reaves,OKC,xbg: 22.37,rfg: 22.71,stacked: 23.30,lots of feature engineering
+lebron,OKC,xbg: 27.05,rfg: 29.42,stacked: 28.57,lots of feature engineering
+luka,OKC,xbg: 33.30,rfg: 34.81,stacked: 35.84,lots of feature engineering
+shai,LAL,xbg: 36.41,rfg: 39.23,stacked: 39.99,lots of feature engineering
+jalen_williams,LAL,xbg: 23.43,rfg: 26.1,stacked: 24.70,lots of feature engineering
+darius_garland,CHI,xbg: 22.76,rfg: 24.18,stacked: 22.60,lots of feature engineering
+jarrett_allen,CHI,xbg: 16.73,rfg: 18.26,stacked: 17.71,testing current model across players
+devin_booker,GSW,xbg: 40.96,rfg: 39.41,stacked: 42.67,testing current model across players
+devin_booker,GSW,xbg: 40.96,rfg: 39.41,stacked: 42.67,testing current model across players
+shai_gilgeous-alexander,LAL,xbg: 36.41,rfg: 39.23,stacked: 39.99,testing current model across players
+shai_gilgeous-alexander,LAL,xbg: 36.41,rfg: 39.23,stacked: 39.99,testing current model across players
+shai_gilgeous-alexander,LAL,xbg: 36.41,rfg: 39.23,stacked: 39.99,testing current model across players
+shai_gilgeous-alexander,LAL,xbg: 36.41,rfg: 39.23,stacked: 39.99,
