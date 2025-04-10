@@ -1,0 +1,4 @@
+player, mae, rmse, change_made
+amen_thompson,"['XGB_MAE: 2.87', 'RFR_MAE: 3.22', 'Stacked_MAE: 3.03']","['XGB_RMSE: 3.35', 'RFR_RMSE: 3.85', 'Stacked_RMSE: 13.14']",
+amen_thompson,"['XGB: 2.87', 'RFR: 3.22', 'Stacked: 3.03']","['XGB: 3.35', 'RFR: 3.85', 'Stacked: 13.14']",
+amen_thompson,"['XGB: 2.87', 'RFR: 3.22', 'Stacked: 3.03']","['XGB: 3.35', 'RFR: 3.85', 'Stacked: 13.14']",
